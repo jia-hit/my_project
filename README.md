@@ -1,2 +1,2 @@
 # my_project
-a new begin
+This is a new begin
